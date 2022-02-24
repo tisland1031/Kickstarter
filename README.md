@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
- The project involves comparing theater campaigns with their launch dates and fundraising goal. It entails creating two outcomes based on months for theater launch dates and dollar amount ranges for meeting goals for plays. The launch dates were based on theater outcomes while the fundraising goals chart focused on plays. 
+ The project involves comparing theater campaigns with their launch dates and fundraising goal. It entails creating two outcomes based on months for theater launch dates and dollar amount ranges for goals connected to plays. The launch dates were based on theater outcomes while the fundraising goals chart focused on plays. 
 
 
 ### Purpose
@@ -29,7 +29,7 @@ The goal amount was broken into 5,000 increments ranging from less than 1,000 to
 
 ### Challenges and Difficulties Encountered
 
-Experienced a few challenges while working with the Kickstarter dataset. Forgot to clear the filters while working in the Kickstarter sheet, this made my data skewed. During deliverable two, didn’t insert plays while working on my formula. Overall, need to move slower not to cause errors and try not to get interrupted while needing to focus.   
+Experienced a few challenges while working with the Kickstarter dataset. Forgot to clear the filters while working in the Kickstarter sheet, this made my data skewed. During deliverable two, didn’t insert plays while working on my formula. Overall, need to move slower not to cause additional errors and getting interrupted while needing to focus caused setbacks.   
 
 ## Results
 
@@ -43,6 +43,10 @@ Experienced a few challenges while working with the Kickstarter dataset. Forgot 
 - Outcomes based on Goals:
 
    1.	If the goal is less than $1,000, fundraising goal is more attainable. Higher the goal amount, increase the failure of reaching fundraiser goals. 
+
+- Overall Recommendations:
+
+  1.	May is the ideal month to launch a successful campaign with a fundraising goal of $1,000 or less. 
 
 - Limitations of dataset:
 
